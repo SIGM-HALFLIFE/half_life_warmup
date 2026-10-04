@@ -12,3 +12,6 @@ This is my warmup project for Hack Club's Half-Life! I built a functional car pa
 | Ultrasonic Distance Sensor | 1 | Detects if a parking spot is taken |
 | Servo Motor | 1 | Operates the parking lot entrance gate |
 
+![My Parking Simulation Circuit Layout](Circuit.png)
+
+
