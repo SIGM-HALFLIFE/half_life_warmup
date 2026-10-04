@@ -13,7 +13,5 @@ This is my warmup project for Hack Club's Half-Life! I built a functional car pa
 | Servo Motor | 1 | Operates the parking lot entrance gate |
 
 
-![My Parking Simulation Circuit Layout](Screenshot 2026-10-04 080619.png)
-
 
 
